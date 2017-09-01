@@ -1,10 +1,10 @@
 # 微博爬虫
 ## Introduction
-**利用正则表达式和Beautifulsoup实现的微博爬虫**
+**利用正则表达式和beautifulsoup实现的微博爬虫**
 ##  requirement
 - python3
   - requests
-  - BeautifulSoup
+  - beautifulSoup
   - pandas
 
 ---
