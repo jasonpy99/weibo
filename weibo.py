@@ -1,5 +1,5 @@
 '''
-@author: zhangxiaobin
+@author: xiao-data
 模拟登录部分参考https://github.com/moaiweishui/weibo_crawler
 '''
 import os
