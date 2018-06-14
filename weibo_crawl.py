@@ -1,5 +1,5 @@
 '''
-@author: zhangxiaobin
+@author: xiao-data
 '''
 from weibo import weibo
 import json
